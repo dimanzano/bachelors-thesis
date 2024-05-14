@@ -1,6 +1,7 @@
 ## Diabetic Retinopathy Detection Using CNNs
 
 Overview
+
 This repository contains the Python code developed for my Bachelor's thesis, which focuses on detecting diabetic retinopathy through convolutional neural networks (CNNs) using the ResNet50 architecture.        
 
 Dataset 
